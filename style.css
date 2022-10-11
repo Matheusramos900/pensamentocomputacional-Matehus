@@ -6,6 +6,17 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: rgb(36, 124, 255);
+}
+
+#fundo01 {
+    background-image: url(https://t.ctcdn.com.br/MIzpPUZKbxi7C8cEIph-iVeegX4=/1400x788/smart/i509997.jpeg);
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+
 h1{
     text-align: center;
     padding: 10px;
@@ -15,7 +26,16 @@ main > p{
     font-size: 1.15em;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgba(255, 255, 255, 0.582);
+    background-color: rgba(255, 255, 255, 0.514);
+}
+
+#parte2 {
+    background-image: url(https://criticalhits.com.br/wp-content/uploads/2021/06/genshin_27_4K-scaled.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-top: 3px;
+    padding-top: 1px;
+    padding-bottom: 5px;
 }
 
 #genshin1 {
@@ -33,7 +53,7 @@ main > p{
 }
 
 main {
-    background-color: rgba(54, 54, 54, 0.616);
+    background-color: rgba(54, 54, 54, 0.438);
     width: 700px;
     display: block;
     margin: auto;
@@ -56,3 +76,4 @@ footer{
     text-align: center;
     font-size: 1.5em;
 }
+
