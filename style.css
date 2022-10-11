@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+main > p{
+    font-size: 1.15em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.582);
+}
+
+#genshin1 {
+    width: 500px;
+    display: block;
+    margin: auto;
+    box-shadow: 4px 4px 7px black;
+    margin-bottom: 7px;
+}
+
+#plataformas{
+    height: 150px;
+    display: flex;
+    margin: auto;
+}
+
+main {
+    background-color: rgba(54, 54, 54, 0.616);
+    width: 700px;
+    display: block;
+    margin: auto;
+    padding: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.692);
+}
+
+main > p {
+    text-align: center;
+    text-align: justify;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5em;
+}
